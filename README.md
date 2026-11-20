@@ -5,7 +5,7 @@
 <h1 align="center">Üniversite Web Sistemleri</h1>
 
 <p align="center">
-  Kırşehir Ahi Evran Üniversitesi için tasarlayıp geliştirdiğim, üniversite sunucularında yayında olan üç web sistemi.
+  Kırşehir Ahi Evran Üniversitesi için tasarlayıp geliştirdiğim, üniversite sunucularında yayında olan web sistemleri.
 </p>
 
 <p align="center">
